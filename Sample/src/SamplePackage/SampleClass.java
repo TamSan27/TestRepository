@@ -2,6 +2,10 @@ package SamplePackage;
 
 public class SampleClass {
 	
+	public static void main(String args[]){
 	int temp;
+	
+	System.out.println("Hello.. ");
 
+}
 }
